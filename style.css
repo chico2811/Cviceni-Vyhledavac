@@ -1,0 +1,26 @@
+h1::first-letter{
+    color: magenta;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 80px;
+    text-align: center;
+    color: rgba(8, 8, 148, 0.616);
+}
+
+.formular{
+    margin: 15%;
+    text-align: center; 
+}
+
+.policko{
+    width: 250px;
+    height: 30px;
+}
+
+.tlacitko{
+    width: 100px;
+    height: 30px;
+}
+
